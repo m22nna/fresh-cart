@@ -5,7 +5,7 @@ export default function Footer() {
     <>
     
     <div className="footer  bg-pink-300">
-      <h1 className='text-center text-black py-20 '> ! This website is being developed <br/> not all components have been developed</h1>
+      <h1 className='text-center text-black py-20 '> ! This website is being developed <br/> not all components are completed</h1>
     </div>
     </>
   )
