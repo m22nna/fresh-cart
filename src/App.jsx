@@ -62,7 +62,7 @@ function App() {
     </UserContextProvider>
    </CartContextProvider>
    </QueryClientProvider>
-   
+  
   
     </>
   )
